@@ -34,15 +34,19 @@ Este proyecto es una aplicación web desarrollada con React y Capacitor para cap
 
 ## Capturas de Pantalla
 
-![image](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/41961743-db44-4588-ba40-ba8d12cb1bd1)
+### Pantalla de inicio
 
-![image](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/6560b14a-e738-4a06-b99f-9105b22ee154)
+![Pantalla de inicio](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/41961743-db44-4588-ba40-ba8d12cb1bd1)
 
-![image](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/f18643e2-f76a-4930-8d74-6d02027cc11c)
+### Cámara en acción
 
-![image](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/b1c1b06e-2469-4108-b17f-f54425946d03)
+![Cámara en acción](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/6560b14a-e738-4a06-b99f-9105b22ee154)
 
-![image](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/8bedc4d3-51ad-4a53-bec1-951ed9331554)
+### Ubicación mostrada
 
+![Ubicación mostrada](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/b1c1b06e-2469-4108-b17f-f54425946d03)
 
+### Datos enviados con éxito
+
+![Datos enviados con éxito](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/8bedc4d3-51ad-4a53-bec1-951ed9331554)
 
