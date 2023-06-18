@@ -33,6 +33,16 @@ Este proyecto es una aplicación web desarrollada con React y Capacitor para cap
 - Firebase
 
 ## Capturas de Pantalla
-![image](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/c05387f4-60cf-4374-ab36-a1195cbb030e)
+
+![image](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/41961743-db44-4588-ba40-ba8d12cb1bd1)
+
+![image](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/6560b14a-e738-4a06-b99f-9105b22ee154)
+
+![image](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/f18643e2-f76a-4930-8d74-6d02027cc11c)
+
+![image](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/b1c1b06e-2469-4108-b17f-f54425946d03)
+
+![image](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/8bedc4d3-51ad-4a53-bec1-951ed9331554)
+
 
 
