@@ -1,4 +1,4 @@
-# PhotoPage - Aplicación de Captura y Envío de Fotos
+# REPOSITORIO - Aplicación de Captura y Envío de Fotos y Ubicacion a Firebase
 
 Este proyecto es una aplicación web desarrollada con React y Capacitor para capturar fotos, obtener la ubicación del usuario y enviar los datos a Firebase.
 
@@ -33,5 +33,6 @@ Este proyecto es una aplicación web desarrollada con React y Capacitor para cap
 - Firebase
 
 ## Capturas de Pantalla
+![image](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/c05387f4-60cf-4374-ab36-a1195cbb030e)
 
 
