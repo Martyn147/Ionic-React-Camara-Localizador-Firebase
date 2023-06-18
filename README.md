@@ -48,5 +48,6 @@ Este proyecto es una aplicación web desarrollada con React y Capacitor para cap
 
 ### Datos enviados con éxito
 
-![Datos enviados con éxito](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/8bedc4d3-51ad-4a53-bec1-951ed9331554)
+![image](https://github.com/Martyn147/Ionic-React-Camara-Localizador-Firebase/assets/85313351/5af77963-892f-417d-88bf-930f7df2e1b2)
+
 
