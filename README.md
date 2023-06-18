@@ -4,6 +4,10 @@ Este proyecto es una aplicación web desarrollada con React y Capacitor para cap
 
 ## Instalación
 
+la APK esta la raiz del proyecto "apk-debug.apk"
+
+## Instalación
+
 1. Clona el repositorio en tu máquina local.
 2. Navega hasta el directorio del proyecto.
 3. Ejecuta `npm install` para instalar las dependencias del proyecto.
